@@ -2,7 +2,7 @@
 
 ### 7 Boxes
 
-1. Refresh your Flexbox skills with this fun game [flexboxfroggy](http://flexboxfroggy.com)
+1. Refresh your Flexbox skills with this fun game [flexboxfroggy](http://flexboxfroggy.com) for what seems like a reasonable amount of time :).
 
 2. Create 7 Boxes with Flexbox & Mediaqueries.
 
